@@ -39,7 +39,7 @@ I’m a **Technical Program Manager, Data Scientist, and Entrepreneur** passiona
 
 ## 🎓 Credentials
 - **MBA, Florida State University**  
-- **M.S. in Computer Science**  
+- **M.S. in Computer Science, City University of Seattle**  
 - **Springboard Data Science Career Track (Certificate)**  
 
 ---
