@@ -55,12 +55,12 @@ I’m a **Technical Program Manager, Data Scientist, and Entrepreneur** passiona
 
 ## ⚡ Quick Stats & Badges  
 
-![GitHub followers](https://img.shields.io/github/followers/YOURUSERNAME?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/YOURUSERNAME?style=social)  
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/btexpress1?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/btexpress1?style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=btexpress1&color=blue)  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)  
 
 ### 📊 GitHub Stats
-![Bini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
+![Bini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=btexpress1&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=btexpress1&layout=compact&theme=tokyonight)  
 
