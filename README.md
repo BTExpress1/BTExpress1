@@ -47,7 +47,7 @@ I’m a **Technical Program Manager, Data Scientist, and Entrepreneur** passiona
 ---
 
 ## 📫 Let’s Connect
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/binilt/))  
+- [LinkedIn]([https://www.linkedin.com/in/binilt](https://www.linkedin.com/in/binilt/))  
 
 ---
 
