@@ -6,8 +6,8 @@ I’m a **Technical Program Manager, Data Scientist, and Entrepreneur** passiona
 
 ## 🚀 What I’m Working On
 - **📊 Data Science & AI**
-  - [Accounting Fraud Detection](#) → Deep learning & ensemble modeling for financial reporting fraud
-  - [Healthcare Access Disparities](#) → Measuring gaps in access using CDC NHIS 2023 data
+  - [Accounting Fraud Detection](https://github.com/BTExpress1/accounting-fraud-detection) → Deep learning & ensemble modeling for financial reporting fraud
+  - [Healthcare Access Disparities](https://github.com/BTExpress1/healthCareAccess) → Measuring gaps in access using CDC NHIS 2023 data
   - [AI Risk Radar (Privacy & Compliance SaaS)](#) → Startup venture focused on AI governance and compliance  
 - **🏢 Real Estate Syndication**
   - GP in **multifamily investments ($10M AUM)** with a goal of scaling to **2,000+ doors**
