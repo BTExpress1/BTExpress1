@@ -8,7 +8,8 @@ I’m a **Technical Program Manager, Data Scientist, and Entrepreneur** passiona
 - **📊 Data Science & AI**
   - [Accounting Fraud Detection](https://github.com/BTExpress1/accounting-fraud-detection) → Deep learning & ensemble modeling for financial reporting fraud
   - [Healthcare Access Disparities](https://github.com/BTExpress1/healthCareAccess) → Measuring gaps in access using CDC NHIS 2023 data
-  - [AI Risk Radar (Privacy & Compliance SaaS)](#) → Startup venture focused on AI governance and compliance  
+  - [Loan Default Probability](https://github.com/BTExpress1/loan-default-probability) → Large-scale credit risk modeling with ensemble ML  
+  - [AI Risk Radar (Privacy & Compliance SaaS)](https://finriskanalysis.streamlit.app/) → Startup venture focused on AI governance and compliance  
 - **🏢 Real Estate Syndication**
   - GP in **multifamily investments ($10M AUM)** with a goal of scaling to **2,000+ doors**
   - Focused on **affordable housing** and **community-centered projects**
@@ -26,10 +27,13 @@ I’m a **Technical Program Manager, Data Scientist, and Entrepreneur** passiona
 ## 📈 Featured Projects
 - **🔎 Fraud Detection Framework** → [Repo](#)  
   Deep Neural Networks + CatBoost blending for generalized fraud detection in public company reporting.  
-- **🏥 Healthcare Access Analytics** → [Repo](#)  
+- **🏥 Healthcare Access Analytics** → [Repo](https://github.com/BTExpress1/healthCareAccess)  
   Data-driven insights into disparities in U.S. healthcare access using survey microdata.  
-- **🤖 AI Risk Radar** → [Repo](#)  
-  Privacy & compliance SaaS MVP to help businesses track AI governance risks.  
+- **🤖 AI Risk Radar** ![status](https://img.shields.io/badge/status-Private%20MVP-lightgrey)  
+  Privacy & compliance SaaS MVP to help businesses track AI governance risks.
+- **💳 Loan Default Probability** → [Repo](https://github.com/BTExpress1/loan-default-probability)  
+  Credit risk modeling using structured lending data (2.4 GB+), with ensemble methods for probability of default.  
+
 
 ---
 
