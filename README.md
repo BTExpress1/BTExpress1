@@ -66,7 +66,9 @@ I’m a **Technical Program Manager, Data Scientist, and Entrepreneur** passiona
 
 ### 📊 GitHub Stats
 ![Bini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=btexpress1&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=btexpress1&layout=compact&theme=tokyonight)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BTExpress1&layout=compact&langs_count=6&exclude_repo=healthcare-stream-phase1)
+
+<!--
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=btexpress1&layout=compact&theme=tokyonight)  
+-->
 
