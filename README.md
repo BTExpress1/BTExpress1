@@ -11,6 +11,8 @@ I specialize in decision contexts involving risk, uncertainty, and regulatory co
 
 Across projects, I prioritize clarity in problem framing, rigor in modeling, and communication that builds confidence in how insights are produced and used. The goal is not just accurate models, but decision systems that teams trust and adopt in real‑world, high‑stakes environments.
 
+---
+
 ## Selected Data Science Projects
 - Accounting Fraud Detection
   Deep learning and ensemble modeling to detect financial reporting fraud in public companies. Built a generalized fraud detection framework using neural networks and tree‑based ensembles, with a focus on interpretability and decision thresholds suitable for regulatory and audit contexts.
@@ -52,7 +54,9 @@ Causal inference and counterfactual reasoning Risk modeling and uncertainty quan
 
 ## Contact
 
+[![GitHub].(https://github.com/BTExpress1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binilt/)
+
 
 
 --------------------------------------------
