@@ -34,6 +34,7 @@ Across healthtech and fintech use cases, I prioritize transparency, robustness, 
 ---
 
 ## Technical Skills
+
 I work primarily with tools and frameworks that support rigorous analysis, scalable workflows, and clear communication in high‑stakes decision contexts. My focus is on depth and reliability rather than breadth. 
 Languages: SQL, Python 
 Data Analysis and Modeling: Pandas, NumPy, scikit‑learn, statsmodels 
@@ -43,9 +44,18 @@ Platforms and Infrastructure: Azure, GitHub, Jupyter
 
 ---
 
-## Learning and Research Interests Causal inference and counterfactual reasoning Risk modeling and uncertainty quantification Responsible and explainable AI Decision system design in healthcare and financial services 
+## Learning and Research Interests 
+
+Causal inference and counterfactual reasoning Risk modeling and uncertainty quantification Responsible and explainable AI Decision system design in healthcare and financial services 
 
 ---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binilt/)
+
+
+--------------------------------------------
 
 ## 🛠️ Tech & Tools
 - **Languages**: Python (pandas, scikit-learn, TensorFlow/Keras, CatBoost, LightGBM), SQL, PySpark  
@@ -55,10 +65,9 @@ Platforms and Infrastructure: Azure, GitHub, Jupyter
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binilt/)
 
 
---------------------------------------------
+
 
 ## 📈 Featured Projects
 - **🔎 Fraud Detection Framework** → [Repo](#)  
