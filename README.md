@@ -55,11 +55,10 @@ Causal inference and counterfactual reasoning Risk modeling and uncertainty quan
 
 ## Contact
 
-## Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-BTExpress1-black?logo=github&logoColor=white)](https://github.com/BTExpress1)
+[![GitHub](https://img.shields.io/badge/GitHub-BTExpress1-181717?logo=github&logoColor=white)](https://github.com/BTExpress1)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binilt/)
+
 
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=btexpress1&layout=compact&theme=tokyonight)  
