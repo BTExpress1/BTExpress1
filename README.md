@@ -14,15 +14,18 @@ Across projects, I prioritize clarity in problem framing, rigor in modeling, and
 ---
 
 ## Selected Data Science Projects
-- Accounting Fraud Detection
-  Deep learning and ensemble modeling to detect financial reporting fraud in public companies. Built a generalized fraud detection framework using neural networks and tree‑based ensembles, with a focus on interpretability and decision thresholds suitable for regulatory and audit contexts.
-  [Accounting Fraud Detection](https://github.com/BTExpress1/accounting-fraud-detection) 
-- Loan Default Probability Modeling
-  Large‑scale credit risk modeling using a 2.4GB structured lending dataset. Developed feature engineering pipelines and ensemble probability models to estimate default risk, support risk segmentation, and inform portfolio‑level decision making.
-  [Loan Default Probability](https://github.com/BTExpress1/loan-default-probability)  
-- Healthcare Access Disparities Analysis
-  Quantitative analysis of healthcare access gaps using CDC NHIS 2023 survey microdata. Applied statistical modeling and demographic stratification to surface inequities in access and generate policy‑relevant insights for health systems and decision makers.
-  [Healthcare Access Disparities](https://github.com/BTExpress1/healthCareAccess)
+
+**Accounting Fraud Detection**  
+Deep learning and ensemble modeling to detect financial reporting fraud in public companies. Built a generalized fraud detection framework using neural networks and tree‑based ensembles, with a focus on interpretability and decision thresholds suitable for regulatory and audit contexts.  
+[Accounting Fraud Detection](https://github.com/BTExpress1/accounting-fraud-detection)
+
+**Loan Default Probability Modeling**  
+Large‑scale credit risk modeling using a 2.4GB structured lending dataset. Developed feature engineering pipelines and ensemble probability models to estimate default risk, support risk segmentation, and inform portfolio‑level decision making.  
+[Loan Default Probability Modeling](https://github.com/BTExpress1/loan-default-probability)
+
+**Healthcare Access Disparities Analysis**  
+Quantitative analysis of healthcare access gaps using CDC NHIS 2023 survey microdata. Applied statistical modeling and demographic stratification to surface inequities in access and generate policy‑relevant insights for health systems and decision makers.  
+[Healthcare Access Disparities](https://github.com/BTExpress1/healthCareAccess)
   
 ---
 
