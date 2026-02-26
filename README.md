@@ -37,12 +37,13 @@ Across healthtech and fintech use cases, I prioritize transparency, robustness, 
 
 ## Technical Skills
 
-I work primarily with tools and frameworks that support rigorous analysis, scalable workflows, and clear communication in high‑stakes decision contexts. My focus is on depth and reliability rather than breadth. 
-Languages: SQL, Python 
-Data Analysis and Modeling: Pandas, NumPy, scikit‑learn, statsmodels 
-Statistical Methods: Predictive modeling, causal inference, risk modeling, probability estimation 
-Visualization and BI: Power BI, Tableau 
-Platforms and Infrastructure: Azure, GitHub, Jupyter
+I work primarily with tools and frameworks that support rigorous analysis, scalable workflows, and clear communication in high‑stakes decision contexts. My focus is on depth and reliability rather than breadth.  
+
+Languages: SQL, Python  
+Data Analysis and Modeling: Pandas, NumPy, scikit‑learn, statsmodels  
+Statistical Methods: Predictive modeling, causal inference, risk modeling, probability estimation  
+Visualization and BI: Power BI, Tableau  
+Platforms and Infrastructure: Azure, GitHub, Jupyter  
 
 ---
 
@@ -54,68 +55,11 @@ Causal inference and counterfactual reasoning Risk modeling and uncertainty quan
 
 ## Contact
 
-[![GitHub].(https://github.com/BTExpress1)
+## Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-BTExpress1-black?logo=github&logoColor=white)](https://github.com/BTExpress1)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binilt/)
-
-
-
---------------------------------------------
-
-## 🛠️ Tech & Tools
-- **Languages**: Python (pandas, scikit-learn, TensorFlow/Keras, CatBoost, LightGBM), SQL, PySpark  
-- **Data Workflows**: Jupyter, GitHub Actions CI, Docker, Power BI  
-- **ML Focus**: Model interpretability (SHAP, feature importance), blending/ensembles, fairness/bias testing  
-- **Other**: Git, Trello, Tableau, Excel wizardry  
-
----
-
-
-
-
-
-## 📈 Featured Projects
-- **🔎 Fraud Detection Framework** → [Repo](#)  
-  Deep Neural Networks + CatBoost blending for generalized fraud detection in public company reporting.  
-- **🏥 Healthcare Access Analytics** → [Repo](https://github.com/BTExpress1/healthCareAccess)  
-  Data-driven insights into disparities in U.S. healthcare access using survey microdata.  
-- **🤖 AI Risk Radar** ![status](https://img.shields.io/badge/status-Private%20MVP-lightgrey)  
-  Privacy & compliance SaaS MVP to help businesses track AI governance risks.
-- **💳 Loan Default Probability** → [Repo](https://github.com/BTExpress1/loan-default-probability)  
-  Credit risk modeling using structured lending data (2.4 GB+), with ensemble methods for probability of default.  
-
-
----
-
-## 🎓 Credentials
-- **MBA, Florida State University**  
-- **M.S. in Computer Science, City University of Seattle**  
-- **Springboard Data Science Career Track (Certificate)**  
-
----
-
-## 🌍 Beyond Tech
-- **Motorcycle rider, traveler, and family man**  
-- **Mission-driven**: building Christ-centered impact in both business and community  
-
----
-
-## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binilt/)
-
----
-
-⭐️ *“Relationships get work done—whether in tech, real estate, or building the future of AI.”*
-
-## ⚡ Quick Stats & Badges  
-
-![GitHub followers](https://img.shields.io/github/followers/btexpress1?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/btexpress1?style=social)  
-![Profile Views](https://komarev.com/ghpvc/?username=btexpress1&color=blue)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)  
-
-### 📊 GitHub Stats
-![Bini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=btexpress1&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BTExpress1&layout=compact&langs_count=6&exclude_repo=healthcare-stream-phase1)
 
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=btexpress1&layout=compact&theme=tokyonight)  
